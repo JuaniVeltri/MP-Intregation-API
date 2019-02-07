@@ -1,0 +1,15 @@
+{
+  "name": "mpapi",
+  "version": "1.0.0",
+  "description": "Example Integration Mercado Pago API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juanii95",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mercadopago": "^1.0.22"
+  }
+}
